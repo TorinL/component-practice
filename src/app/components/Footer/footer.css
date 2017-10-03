@@ -1,0 +1,14 @@
+.thing {
+  position:absolute;
+  left:0;
+  bottom:0;
+  right:0;
+}
+
+.background {
+  background-color: black;
+}
+
+.text{
+  color: white;
+}
