@@ -5,6 +5,7 @@ import { Header } from "./components/Header/Header";
 import { Home } from "./components/Home/Home";
 import Footer from "./components/Footer/Footer";
 import Main from "./components/Main/Main";
+import Form from "./components/Form/Form";
 
 
 class App extends React.Component {
@@ -29,6 +30,9 @@ class App extends React.Component {
       <div className="container">
         <div>
           <Main />
+        </div>
+        <div>
+          <Form />
         </div>
 
       </div>

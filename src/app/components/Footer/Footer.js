@@ -7,7 +7,7 @@ export default class Footer extends React.Component {
     return (
       <div className={thing}>
         <div className={background}>
-          <h1 className={text}>sup homies</h1>
+          <h1 className={text}>@AlleyCatFitness</h1>
         </div>
       </div>
     )
